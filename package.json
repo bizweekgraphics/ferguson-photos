@@ -1,0 +1,19 @@
+{
+  "name": "slideshow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-imagemin": "^2.0.0",
+    "gulp-remote-src": "^0.3.0",
+    "gulp-replace": "^0.5.0",
+    "imagemin-jpegoptim": "^4.0.0",
+    "imagemin-jpegtran": "^4.0.0"
+  }
+}
