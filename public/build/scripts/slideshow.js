@@ -13,7 +13,7 @@ var meta = {
   title: "24 Hours in Ferguson: Scenes from the Michael Brown Fallout", // e.g. "Can women ever win at work?"
   description: "",
   pubDate: "20141126", // e.g. "20140825"
-  shareText: "24 Hours in Ferguson: Scenes from the Fallout (LINK) #Ferguson via @BW ",
+  shareText: "24 Hours in Ferguson: Scenes from the Fallout http://buswk.co/1rkK1h2 #Ferguson via @BW ",
   shareURL: ""
 };
 
